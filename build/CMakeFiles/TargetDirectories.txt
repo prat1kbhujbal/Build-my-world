@@ -1,0 +1,3 @@
+/home/pratik/workspace/robot/build/CMakeFiles/edit_cache.dir
+/home/pratik/workspace/robot/build/CMakeFiles/rebuild_cache.dir
+/home/pratik/workspace/robot/build/CMakeFiles/hello.dir
